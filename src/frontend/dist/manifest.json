@@ -1,0 +1,18 @@
+{
+  "name": "Smart Wallet",
+  "short_name": "Smart Wallet",
+  "description": "Personal Finance Management App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/generated/smart-wallet-icon.dim_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
